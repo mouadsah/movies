@@ -1,0 +1,31 @@
+[
+    {
+      "model": "movies.actor",
+      "fields": {
+        "first_name": "Chris",
+        "last_name": "Evans"
+      }
+    },
+    {
+      "model": "movies.actor",
+      "fields": {
+        "first_name": "George",
+        "last_name": "Clooney"
+      }
+    },
+    {
+      "model": "movies.actor",
+      "fields": {
+        "first_name": "Johnny",
+        "last_name": "Depp"
+      }
+    },
+    {
+      "model": "movies.actor",
+      "fields": {
+        "first_name": "Channing",
+        "last_name": "Tatum"
+      }
+    }
+  ]
+  

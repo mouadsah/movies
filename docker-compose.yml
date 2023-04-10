@@ -1,0 +1,14 @@
+version: "2.2"
+
+services:
+  frontend:
+    build: ./frontend
+    ports:
+      - "8080:8080"
+    depends_on:
+      - backend
+
+  backend:
+    build: ./django_rest_api/rest_api_movies
+    ports:
+      - "8000:8000"

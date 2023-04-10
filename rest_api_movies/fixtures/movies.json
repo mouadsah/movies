@@ -1,0 +1,402 @@
+[
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Creed III",
+        "image": "/5i6SjyDbDWqyun8klUuCxrlFbyw.jpg",
+        "description": "After dominating the boxing world, Adonis Creed has been thriving in both his career and family life. When a childhood friend and former boxing prodigy, Damien Anderson, resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damien — a fighter who has nothing to lose.",
+        "release_date": "2023-03-01",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Avatar: The Way of Water",
+        "image": "/ovM06PdF3M8wvKb06i4sjW3xoww.jpg",
+        "description": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+        "release_date": "2022-12-14",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "The Super Mario Bros. Movie",
+        "image": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+        "description": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+        "release_date": "2023-04-05",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Mummies",
+        "image": "/vSUls0b7dNhC7tJoExF1MBYWWyh.jpg",
+        "description": "Through a series of unfortunate events, three mummies end up in present-day London and embark on a wacky and hilarious journey in search of an old ring belonging to the Royal Family, stolen by ambitious archaeologist Lord Carnaby.",
+        "release_date": "2023-01-05",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Supercell",
+        "image": "/m1fgGSLK0WvRpzM1AmZu38m0Tx8.jpg",
+        "description": "Good-hearted teenager William always lived in hope of following in his late father’s footsteps and becoming a storm chaser. His father’s legacy has now been turned into a storm-chasing tourist business, managed by the greedy and reckless Zane Rogers, who is now using William as the main attraction to lead a group of unsuspecting adventurers deep into the eye of the most dangerous supercell ever seen.",
+        "release_date": "2023-03-17",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Cocaine Bear",
+        "image": "/a2tys4sD7xzVaogPntGsT1ypVoT.jpg",
+        "description": "Inspired by a true story, an oddball group of cops, criminals, tourists and teens converge in a Georgia forest where a 500-pound black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+        "release_date": "2023-02-22",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "John Wick: Chapter 4",
+        "image": "/i8dshLvq4LE3s0v8PrkDdUyb1ae.jpg",
+        "description": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+        "release_date": "2023-03-22",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Puss in Boots: The Last Wish",
+        "image": "/ouB7hwclG7QI3INoYJHaZL4vOaa.jpg",
+        "description": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+        "release_date": "2022-12-07",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Attack on Titan",
+        "image": "/eNJhWy7xFzR74SYaSJHqJZuroDm.jpg",
+        "description": "As viable water is depleted on Earth, a mission is sent to Saturn's moon Titan to retrieve sustainable H2O reserves from its alien inhabitants. But just as the humans acquire the precious resource, they are attacked by Titan rebels, who don't trust that the Earthlings will leave in peace.",
+        "release_date": "2022-09-30",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "The Park",
+        "image": "/sgFDQwJTYMuUS7Ng4PAPB8nBf2j.jpg",
+        "description": "A dystopian coming-of-age movie focused on three kids who find themselves in an abandoned amusement park, aiming to unite whoever remains. With dangers lurking around every corner, they will do whatever it takes to survive their hellish Neverland.",
+        "release_date": "2023-03-02",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Winnie the Pooh: Blood and Honey",
+        "image": "/wD2kUCX1Bb6oeIb2uz7kbdfLP6k.jpg",
+        "description": "Christopher Robin is headed off to college and he has abandoned his old friends, Pooh and Piglet, which then leads to the duo embracing their inner monsters.",
+        "release_date": "2023-01-27",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "The Exorcist",
+        "image": "/u5nY7pY2Y58o7dSM9cy6NclOV8V.jpg",
+        "description": "Ophelia, a young nun recently arriving in the town of San Ramon, is forced to perform an exorcism on a pregnant woman in danger of dying. Just when she thinks her possession has ended, she discovers that the evil presence hasn't disappeared yet. The director of the award-winning Here Comes the Devil and Late Phases adds a new twist to possession movies in one of this year's Latin American horror surprises.",
+        "release_date": "2022-11-02",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Murder Mystery 2",
+        "image": "/bT3IpP7OopgiVuy6HCPOWLuaFAd.jpg",
+        "description": "After starting their own detective agency, Nick and Audrey Spitz land a career-making case when their billionaire pal is kidnapped from his wedding.",
+        "release_date": "2023-03-26",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Black Panther: Wakanda Forever",
+        "image": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+        "description": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+        "release_date": "2022-11-09",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "The Pope's Exorcist",
+        "image": "/5Y5pz0NX7SZS9036I733F7uNcwK.jpg",
+        "description": "Father Gabriele Amorth, Chief Exorcist of the Vatican, investigates a young boy's terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
+        "release_date": "2023-04-05",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Prizefighter: The Life of Jem Belcher",
+        "image": "/2Eewgp7o5AU1xCataDmiIL2nYxd.jpg",
+        "description": "At the turn of the 19th century, Pugilism was the sport of kings and a gifted young boxer fought his way to becoming champion of England.",
+        "release_date": "2022-06-30",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Knock at the Cabin",
+        "image": "/zM9RGbJBZ3UNpFOabcRqh0iVAYP.jpg",
+        "description": "While vacationing at a remote cabin, a young girl and her two fathers are taken hostage by four armed strangers who demand that the family make an unthinkable choice to avert the apocalypse. With limited access to the outside world, the family must decide what they believe before all is lost.",
+        "release_date": "2023-02-01",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "The Devil Conspiracy",
+        "image": "/sp7MPK2K60LLd7A6zjHKsfgjFil.jpg",
+        "description": "The hottest biotech company in the world has discovered they can clone history’s most influential people from the dead. Now, they are auctioning clones of Michelangelo, Galileo, Vivaldi, and others for tens of millions of dollars to the world’s ultra-rich. But when they steal the Shroud of Turin and clone the DNA of Jesus Christ, all hell breaks loose.",
+        "release_date": "2023-01-13",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "The Hunteress",
+        "image": "/coWUgAjqwyu2W7YFlb71rlukPKZ.jpg",
+        "description": "Psychological thriller where the character's strength, submerged in the landscape's majesty, leads us through a tense, bleak and chilling path.",
+        "release_date": "2023-01-19",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Gold Run",
+        "image": "/9H7oVnG4P75bda0y1t7EGDoPnRD.jpg",
+        "description": "Fredrik isn’t the bravest of men, but now he is faced with a great responsibility and an enormous task - to get the entire Norwegian gold reserve away from the Nazis during the invasion of Norway.",
+        "release_date": "2022-12-15",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "The Magician's Elephant",
+        "image": "/qai0MnVwPYCwOPSAnHIHyzBVqnd.jpg",
+        "description": "Peter is searching for his long-lost sister when he crosses paths with a fortune teller in the market square. His one one question is: is his sister still alive? The answer, that he must find a mysterious elephant and the magician who will conjure it, sets Peter off on a journey to complete three seemingly impossible tasks that will change the face of his town forever.",
+        "release_date": "2023-03-10",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Plane",
+        "image": "/9Rq14Eyrf7Tu1xk0Pl7VcNbNh1n.jpg",
+        "description": "After a heroic job of successfully landing his storm-damaged aircraft in a war zone, a fearless pilot finds himself between the agendas of multiple militias planning to take the plane and its passengers hostage.",
+        "release_date": "2023-01-12",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "The Passion of the Christ",
+        "image": "/4840rkbpsiuow5ew155oVKcqJwj.jpg",
+        "description": "A graphic portrayal of the last twelve hours of Jesus of Nazareth's life.",
+        "release_date": "2004-02-25",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Batman: The Doom That Came to Gotham",
+        "image": "/7eccX0xay9pDj6ZQvU4cu3whw18.jpg",
+        "description": "Explorer Bruce Wayne accidentally unleashes an ancient evil, and returns to Gotham after being away for two decades. There, Batman battles Lovecraftian supernatural forces and encounters allies and enemies such as Green Arrow, Ra's al Ghul, Mr. Freeze, Killer Croc, Two-Face and James Gordon.",
+        "release_date": "2023-03-10",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Shazam! Fury of the Gods",
+        "image": "/wybmSmviUXxlBmX44gtpow5Y9TB.jpg",
+        "description": "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+        "release_date": "2023-03-15",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Consecration",
+        "image": "/sRfX2XPjyL7nRKVRKXVG6D0bVQI.jpg",
+        "description": "After the alleged suicide of her priest brother, Grace travels to the remote Scottish convent where he fell to his death. Distrusting the Church's account, she uncovers murder, sacrilege and a disturbing truth about herself.",
+        "release_date": "2023-02-09",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Shark Side of the Moon",
+        "image": "/AsEgGeccI32SwMBkxpwhOkhbzmF.jpg",
+        "description": "Decades ago, the USSR developed unkillable sharks and launched them to the moon. Today, a team of American astronauts will endure the fight of their lives.",
+        "release_date": "2022-08-12",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Black Adam",
+        "image": "/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+        "description": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+        "release_date": "2022-10-19",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Money Shot: The Pornhub Story",
+        "image": "/sGE6N1vJjxZLkOJEXdIOqTslxuL.jpg",
+        "description": "Featuring interviews with performers, activists and past employees, this documentary offers a deep dive into the successes and scandals of Pornhub.",
+        "release_date": "2023-03-15",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "M3GAN",
+        "image": "/dlrWhn0G3AtxYUx2D9P2bmzcsvF.jpg",
+        "description": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
+        "release_date": "2022-12-28",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Ant-Man and the Wasp: Quantumania",
+        "image": "/gslT8t964rYXyqRcqrxFh77ikyb.jpg",
+        "description": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+        "release_date": "2023-02-15",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Sayen",
+        "image": "/muw9YsAsSd3DDRme2OEJJoVqun9.jpg",
+        "description": "Sayen is hunting down the men who murdered her grandmother. Using her training and knowledge of nature, she is able to turn the tables on them, learning of a conspiracy from a corporation that threatens her people's ancestral lands.",
+        "release_date": "2023-03-03",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Die Hart",
+        "image": "/pxJbfnMIQQxCrdeLD0zQnWr6ouL.jpg",
+        "description": "Kevin Hart - playing a version of himself - is on a death-defying quest to become an action star. And with a little help from John Travolta, Nathalie Emmanuel, and Josh Hartnett - he just might pull it off.",
+        "release_date": "2023-02-22",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "13 Exorcisms",
+        "image": "/2E6pIbJien7B9yWpaz8Yd2njzUI.jpg",
+        "description": "After participating in a séance, young Laura begins to behave strangely. Alarmed, her parents ask Father Olmedo, one of the few exorcists authorized by the Vatican to intervene in cases of demonic possession, for help.",
+        "release_date": "2022-11-04",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "H.P. Lovecraft's Witch House",
+        "image": "/h9VW4ldO8S2taKy7OamX78e7nGS.jpg",
+        "description": "Determined to prove the possibility of alternate dimensions, a graduate student unknowingly unlocks a gateway to unimaginable horror. Based on the H.P. Lovecraft's short story The Dreams in the Witch House.",
+        "release_date": "2022-06-29",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "John Wick: Chapter 2",
+        "image": "/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
+        "description": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
+        "release_date": "2017-02-08",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "John Wick: Chapter 5",
+        "image": null,
+        "description": "The fifth installment in the John Wick franchise, confirmed to be in development.",
+        "release_date": "2017-02-08",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Sick",
+        "image": "/ve3RLbCSuUKA02OZJ5F0fMmXVMn.jpg",
+        "description": "In the midst of the pandemic, college student Parker and her best friend Miri decide to self-quarantine at her family's lake house, where they will be alone — or so they think.",
+        "release_date": "2022-09-11",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Black Warrant",
+        "image": "/uNK5dHo6HJpwk1BPcDHHyvX7ZLz.jpg",
+        "description": "A semi-retired special ops assassin and a DEA agent cross paths on separate missions to stop a cyber terrorist organization that has built a dangerous machine threatening to attack the power grid and bring catastrophe to the world.",
+        "release_date": "2023-01-09",
+        "actors": [1,2,3,4]
+      }
+    },
+    {
+      "model": "movies.movie",
+      "fields": {
+        "title": "Shotgun Wedding",
+        "image": "/zGoZB4CboMzY1z4G3nU6BWnMDB2.jpg",
+        "description": "Darcy and Tom gather their families for the ultimate destination wedding but when the entire party is taken hostage, “’Til Death Do Us Part” takes on a whole new meaning in this hilarious, adrenaline-fueled adventure as Darcy and Tom must save their loved ones—if they don’t kill each other first.",
+        "release_date": "2022-12-28",
+        "actors": [1,2,3,4]
+      }
+    }
+  ]
